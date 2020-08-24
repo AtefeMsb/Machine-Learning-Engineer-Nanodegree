@@ -1,2 +1,2 @@
 # Machine-Learning-Engineer-Nanodegree
-class notes and project from my Udacity machine learning engineer degree.
+Class notes and projects from my Udacity machine learning engineer degree.
