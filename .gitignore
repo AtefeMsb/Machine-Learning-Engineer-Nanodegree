@@ -105,3 +105,5 @@ venv.bak/
 
 # environment folder
 /Software Engineering/env_name
+
+**/.DS_Store
